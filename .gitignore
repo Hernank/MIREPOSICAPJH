@@ -17,10 +17,10 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
-CapaDatos
+
 # OSX
 # =========================
-
+CapaDatos/
 .DS_Store
 .AppleDouble
 .LSOverride
